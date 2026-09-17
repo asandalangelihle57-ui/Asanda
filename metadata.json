@@ -1,0 +1,6 @@
+{
+  "name": "DSAC Public Entities Reporting System",
+  "description": "Centralised digital reporting, performance management, and AI-assisted governance platform for DSAC Public Entities and NPOs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
